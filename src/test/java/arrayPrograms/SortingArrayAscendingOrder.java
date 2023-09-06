@@ -1,5 +1,7 @@
 package arrayPrograms;
 
+import org.testng.annotations.Test;
+
 public class SortingArrayAscendingOrder {
 
 	public static void main(String[] args) {
@@ -22,6 +24,11 @@ public class SortingArrayAscendingOrder {
 		{
 			System.err.println(a[i]);
 		}
+	}
+	
+	@Test
+	public void method() {
+		System.out.println("sanbzdxsmzxbn");
 	}
 
 }
