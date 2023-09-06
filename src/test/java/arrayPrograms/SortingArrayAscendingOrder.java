@@ -26,6 +26,7 @@ public class SortingArrayAscendingOrder {
 				System.err.println(a[i]);
 		}
 		System.out.println();
+		System.out.println("---------------------");
 	}
 	
 	@Test
@@ -33,5 +34,7 @@ public class SortingArrayAscendingOrder {
 		System.out.println(" ");
 		System.out.println("sanbzdxsmzxbn");
 	}
+	
+	
 
 }
