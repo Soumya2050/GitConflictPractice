@@ -28,6 +28,7 @@ public class SortingArrayAscendingOrder {
 	
 	@Test
 	public void method() {
+		System.out.println(" ");
 		System.out.println("sanbzdxsmzxbn");
 	}
 
