@@ -22,7 +22,7 @@ public class SortingArrayAscendingOrder {
 		}
 		for(int i=0;i<a.length;i++)
 		{
-			System.err.println(a[i]);
+				System.err.println(a[i]);
 		}
 	}
 	
