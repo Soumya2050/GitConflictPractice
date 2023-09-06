@@ -1,0 +1,2 @@
+# GitConflictPractice
+GitConflictPractice
